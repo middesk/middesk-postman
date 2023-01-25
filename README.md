@@ -1,7 +1,7 @@
 
 # Middesk's Postman Collection
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/17049420-cd3e58c4-4e7b-4940-b0ac-61bfd9b19bbd?action=collection%2Ffork&collection-url=entityId%3D17049420-cd3e58c4-4e7b-4940-b0ac-61bfd9b19bbd%26entityType%3Dcollection)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/9313621-e84fb3c6-5dfe-4407-98c1-a3a35b222414?action=collection%2Ffork&collection-url=entityId%3D9313621-e84fb3c6-5dfe-4407-98c1-a3a35b222414%26entityType%3Dcollection%26workspaceId%3Dc86b6d7c-c479-4159-88a3-c937b1e72463)
 
 #### Intro
 
